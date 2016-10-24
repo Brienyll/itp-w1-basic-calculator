@@ -11,4 +11,4 @@ def basic_calculator(num1, num2, operation):
     if operation == 'divide':
         return num1 / num2
     else:
-        return 'Invalid operation'
+        return 'Invalid operation, try again'
